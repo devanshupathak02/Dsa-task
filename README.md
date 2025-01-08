@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshupathak02/Dsa-task/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshupathak02/Dsa-task/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devanshupathak02/Dsa-task/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
