@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devanshupathak02/Dsa-task/tree/master/0031-next-permutation) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshupathak02/Dsa-task/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshupathak02/Dsa-task/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0087-scramble-string) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshupathak02/Dsa-task/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
 ## Recursion
 |  |
