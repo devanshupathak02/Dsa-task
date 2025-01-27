@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/devanshupathak02/Dsa-task/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshupathak02/Dsa-task/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshupathak02/Dsa-task/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
