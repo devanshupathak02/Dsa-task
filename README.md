@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshupathak02/Dsa-task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshupathak02/Dsa-task/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshupathak02/Dsa-task/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0087-scramble-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
