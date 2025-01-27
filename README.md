@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/devanshupathak02/Dsa-task/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
