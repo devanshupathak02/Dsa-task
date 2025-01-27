@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshupathak02/Dsa-task/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshupathak02/Dsa-task/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshupathak02/Dsa-task/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0087-scramble-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0087-scramble-string) |
+| [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
