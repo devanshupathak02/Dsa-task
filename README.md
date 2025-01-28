@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshupathak02/Dsa-task/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devanshupathak02/Dsa-task/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/devanshupathak02/Dsa-task/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshupathak02/Dsa-task/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshupathak02/Dsa-task/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
