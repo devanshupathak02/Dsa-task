@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshupathak02/Dsa-task/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/devanshupathak02/Dsa-task/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
 ## Binary Search
@@ -141,8 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
