@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devanshupathak02/Dsa-task/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/devanshupathak02/Dsa-task/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshupathak02/Dsa-task/tree/master/0084-largest-rectangle-in-histogram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshupathak02/Dsa-task/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/devanshupathak02/Dsa-task/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshupathak02/Dsa-task/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
