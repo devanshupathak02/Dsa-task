@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 ## Greedy
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
