@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/devanshupathak02/Dsa-task/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/devanshupathak02/Dsa-task/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0079-word-search) |
