@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/devanshupathak02/Dsa-task/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/devanshupathak02/Dsa-task/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/devanshupathak02/Dsa-task/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devanshupathak02/Dsa-task/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
 ## Backtracking
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/devanshupathak02/Dsa-task/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/devanshupathak02/Dsa-task/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 ## Simulation
