@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/devanshupathak02/Dsa-task/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/devanshupathak02/Dsa-task/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
@@ -169,11 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/devanshupathak02/Dsa-task/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/devanshupathak02/Dsa-task/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 ## Geometry
 |  |
