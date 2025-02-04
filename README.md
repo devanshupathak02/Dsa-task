@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devanshupathak02/Dsa-task/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/devanshupathak02/Dsa-task/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/devanshupathak02/Dsa-task/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devanshupathak02/Dsa-task/tree/master/0084-largest-rectangle-in-histogram) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devanshupathak02/Dsa-task/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/devanshupathak02/Dsa-task/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/devanshupathak02/Dsa-task/tree/master/0085-maximal-rectangle) |
 ## Backtracking
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/devanshupathak02/Dsa-task/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/devanshupathak02/Dsa-task/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/devanshupathak02/Dsa-task/tree/master/0068-text-justification) |
 ## Geometry
 |  |
