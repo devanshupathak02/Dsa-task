@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/devanshupathak02/Dsa-task/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/devanshupathak02/Dsa-task/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/devanshupathak02/Dsa-task/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 ## Math
 |  |
 | ------- |
