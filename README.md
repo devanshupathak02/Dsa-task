@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
+| [3684-substring-matching-pattern](https://github.com/devanshupathak02/Dsa-task/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshupathak02/Dsa-task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3684-substring-matching-pattern](https://github.com/devanshupathak02/Dsa-task/tree/master/3684-substring-matching-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
