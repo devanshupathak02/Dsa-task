@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshupathak02/Dsa-task/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/devanshupathak02/Dsa-task/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/devanshupathak02/Dsa-task/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 ## Stack
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -240,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
