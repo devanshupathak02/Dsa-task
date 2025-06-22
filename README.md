@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/devanshupathak02/Dsa-task/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devanshupathak02/Dsa-task/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/devanshupathak02/Dsa-task/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
