@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0367-valid-perfect-square) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/devanshupathak02/Dsa-task/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
+| [0367-valid-perfect-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/devanshupathak02/Dsa-task/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
