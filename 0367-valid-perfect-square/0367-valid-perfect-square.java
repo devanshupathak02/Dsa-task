@@ -1,12 +1,12 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
         
-    long s=1;
-    long e=num;
+    int s=1;
+    int e=num;
 
     while(s <= e){
-        long mid= s +(e-s)/2;
-        long square = mid*mid;
+        int mid= s +(e-s)/2;
+        long square = (long)mid*mid;
         if(square == num){
             return true;
         }
