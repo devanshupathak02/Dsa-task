@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
