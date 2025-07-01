@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/devanshupathak02/Dsa-task/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
+| [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/devanshupathak02/Dsa-task/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/devanshupathak02/Dsa-task/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/devanshupathak02/Dsa-task/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 ## Stack
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/devanshupathak02/Dsa-task/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/devanshupathak02/Dsa-task/tree/master/0149-max-points-on-a-line) |
+| [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/devanshupathak02/Dsa-task/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
@@ -245,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
