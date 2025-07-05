@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
 | [1205-defanging-an-ip-address](https://github.com/devanshupathak02/Dsa-task/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 | [3684-substring-matching-pattern](https://github.com/devanshupathak02/Dsa-task/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/devanshupathak02/Dsa-task/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 ## Binary Search
 |  |
 | ------- |
