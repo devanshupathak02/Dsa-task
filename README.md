@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/devanshupathak02/Dsa-task/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
+| [0742-to-lower-case](https://github.com/devanshupathak02/Dsa-task/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/devanshupathak02/Dsa-task/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Dsa-task/tree/master/1797-goal-parser-interpretation) |
