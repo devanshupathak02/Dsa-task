@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/devanshupathak02/Dsa-task/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Dsa-task/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Dsa-task/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3684-substring-matching-pattern](https://github.com/devanshupathak02/Dsa-task/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/devanshupathak02/Dsa-task/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshupathak02/Dsa-task/tree/master/0222-count-complete-tree-nodes) |
+## Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Dsa-task/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
