@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/devanshupathak02/Dsa-task/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Dsa-task/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Dsa-task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3684-substring-matching-pattern](https://github.com/devanshupathak02/Dsa-task/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Dsa-task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
