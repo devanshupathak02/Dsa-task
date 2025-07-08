@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Dsa-task/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Dsa-task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
