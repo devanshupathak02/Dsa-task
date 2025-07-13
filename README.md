@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/devanshupathak02/Dsa-task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/devanshupathak02/Dsa-task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Dsa-task/tree/master/1018-largest-perimeter-triangle) |
 | [1651-shuffle-string](https://github.com/devanshupathak02/Dsa-task/tree/master/1651-shuffle-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshupathak02/Dsa-task/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/devanshupathak02/Dsa-task/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
+| [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Dsa-task/tree/master/1018-largest-perimeter-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/devanshupathak02/Dsa-task/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshupathak02/Dsa-task/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Dsa-task/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshupathak02/Dsa-task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Dsa-task/tree/master/0645-set-mismatch) |
+| [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Dsa-task/tree/master/1018-largest-perimeter-triangle) |
 ## Tree
 |  |
 | ------- |
