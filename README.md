@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/devanshupathak02/Dsa-task/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshupathak02/Dsa-task/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0287-find-the-duplicate-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshupathak02/Dsa-task/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/devanshupathak02/Dsa-task/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshupathak02/Dsa-task/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/devanshupathak02/Dsa-task/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshupathak02/Dsa-task/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Dsa-task/tree/master/0645-set-mismatch) |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/devanshupathak02/Dsa-task/tree/master/1823-determine-if-string-halves-are-alike) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devanshupathak02/Dsa-task/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
