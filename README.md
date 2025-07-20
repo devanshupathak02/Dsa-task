@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/devanshupathak02/Dsa-task/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/devanshupathak02/Dsa-task/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devanshupathak02/Dsa-task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshupathak02/Dsa-task/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Dsa-task/tree/master/1018-largest-perimeter-triangle) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devanshupathak02/Dsa-task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
