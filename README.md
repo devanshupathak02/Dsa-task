@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/devanshupathak02/Dsa-task/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/devanshupathak02/Dsa-task/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
+| [1013-fibonacci-number](https://github.com/devanshupathak02/Dsa-task/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/devanshupathak02/Dsa-task/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/devanshupathak02/Dsa-task/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/devanshupathak02/Dsa-task/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/devanshupathak02/Dsa-task/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/devanshupathak02/Dsa-task/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/devanshupathak02/Dsa-task/tree/master/0397-integer-replacement) |
+| [1013-fibonacci-number](https://github.com/devanshupathak02/Dsa-task/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/devanshupathak02/Dsa-task/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/devanshupathak02/Dsa-task/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshupathak02/Dsa-task/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/devanshupathak02/Dsa-task/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/devanshupathak02/Dsa-task/tree/master/1018-largest-perimeter-triangle) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devanshupathak02/Dsa-task/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
